@@ -1,8 +1,5 @@
 BannedPlayers = {
-  "PlayerName": [
-    { "UserID":"16464","BanReason":"Racist" }
-  ],
-    "PlayerName": [
-    { "UserID":"16464","BanReason":"Racist" }
-    ]
+  "1403274": [
+    { "UserID":"1403274","BanReason":"Racist" }
+  ]
  }
