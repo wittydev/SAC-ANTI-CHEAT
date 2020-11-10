@@ -1,5 +1,4 @@
-BannedPlayers = {
-  "1403274": [
-    { "UserID":"1403274","BanReason":"Racist" }
-  ]
- }
+[
+	[1403274] = {User = '1403274', Reason = 'Banned'},
+	[26463467] = {User = '26463467', Reason = 'Banned'}
+]
