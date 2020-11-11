@@ -3,7 +3,7 @@
 
 ## FEATURES:
 
-**heavy HEAVY anti remote event manipulation.**
+**heavy HEAVY anti remote event manipulation.**\n
 1st layer = blank remote event names
 2nd layer = faux remote events that kick the player (ofc they are all blank so it makes it hard to see)
 3rd layer = random number of remote events added before the real ones, to prevent table indexing.
