@@ -1,7 +1,7 @@
 # SAC-ANTI-CHEAT
-stuff
 
-#FEATURES:
+
+## FEATURES:
 
 **heavy HEAVY anti remote event manipulation.**
 *1st layer = blank remote event names*
@@ -24,7 +24,7 @@ stuff
 **anti noclip!** 
 *most noclip is via Humanoid:ChangeState()*
 
-#INFO:
+## INFO:
 There is **always** a way to manipulate the remotes, but *hopefully* theres enough layers to make it too much of a task / *annoying* to exploit on the game, 
 and prevent exploits to be made and released. if you ***WANTED*** to, you could index all of the remotes and then just through a task of elimination 
 **randomly** guess and you *might* get the right remote that you were hoping for, but if you join a different server, the remotes are different. 
