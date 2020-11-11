@@ -3,11 +3,12 @@
 
 ## FEATURES:
 
-**heavy HEAVY anti remote event manipulation.**\n
-1st layer = blank remote event names
+**heavy HEAVY anti remote event manipulation.**
+
+*1st layer = blank remote event names
 2nd layer = faux remote events that kick the player (ofc they are all blank so it makes it hard to see)
 3rd layer = random number of remote events added before the real ones, to prevent table indexing.
-4th layer = executing remote events randomly to throw off additional exploiters using remotespy.
+4th layer = executing remote events randomly to throw off additional exploiters using remotespy.*
 
 **Body mover detection!**
 *anti fly, anti anti-speed bypass, other bodymover stuff.*
